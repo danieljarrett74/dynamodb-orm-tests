@@ -1,0 +1,19 @@
+{
+  "name": "dynamodb-orm-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@aws/dynamodb-data-mapper": "^0.7.3",
+    "@typedorm/common": "^1.14.10",
+    "@typedorm/core": "^1.14.10",
+    "aws-sdk": "^2.1111.0",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "ts-node": "^10.7.0",
+    "tsconfig-paths": "^3.14.1",
+    "typescript": "^4.6.3"
+  }
+}
